@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Pedro Bocchini!</p>
+<h1 align="left">Meu nome é Pedro Bocchini!</h1>
 
 ###
 
