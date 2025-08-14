@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Meu nome é Pedro Bocchini!</h1>
+<h2 align="left">Meu nome é Pedro Bocchini!</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Python • SQL• Tableau • Jupyter • Pandas • Git • Github • Render • Visual Studio Code</h4>
+<h3 align="left">Python • SQL• Tableau • Jupyter • Pandas • Git • Github • Render • Visual Studio Code</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="left">CONTATOS</h1>
+<h4 align="left">CONTATOS</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobocchini/)
 [![E-mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:pedro.bocchini@hotmail.com)
