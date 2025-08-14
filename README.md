@@ -35,3 +35,8 @@
 </div>
 
 ###
+
+<h1 align="left">- [LinkedIn](https://www.linkedin.com/in/pedrobocchini/)
+- [E-mail](mailto:pedro.bocchini@hotmail.com)</h1>
+
+###
