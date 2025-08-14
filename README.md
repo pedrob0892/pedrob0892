@@ -36,7 +36,8 @@
 
 ###
 
-[LinkedIn](https://www.linkedin.com/in/pedrobocchini/)
-[E-mail](mailto:pedro.bocchini@hotmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobocchini/)
+[![E-mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:pedro.bocchini@hotmail.com)
 
 ###
