@@ -41,4 +41,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobocchini/)
 [![E-mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:pedro.bocchini@hotmail.com)
 
+| Nome do Projeto | Notebook ou Link | Linguagem | Observação |
+|-----------------|------------------|-----------|------------|
+| **Análise de Churn Mensal de Model Fitness** | [Projeto_Academia](link_do_repositorio_ou_notebook) | Python, ML, SKlearn | **Um projeto com Machine Learning.** Da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis). Uso de Regressão Logística para predizer o Churn e K-means para agrupar os clientes. |
+| **Análise Baseada em Eventos de um E-commerce** | [Projeto_Analise_Eventos](link_do_repositorio_ou_notebook) | Python | **Um projeto com Análise Baseada em Eventos e Teste A/B.** Definição do problema, tratamento, EDA, Análise de Funil de Vendas e Teste A/B em um e-commerce de produtos alimentícios. |
+
 ###
